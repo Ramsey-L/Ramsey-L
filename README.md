@@ -1,29 +1,45 @@
+<div align="center">
+
 # Hi, I'm Xintong Li 👋
 
-I'm a Software Engineering student at Tongji University, currently strengthening my foundations in algorithms and exploring software development and AI agents.
+### Software Engineering · Tongji University
 
-## About Me
+Building strong foundations in algorithms while exploring software development and AI agents.
+
+[![Email](https://img.shields.io/badge/Email-2552744%40tongji.edu.cn-2f6f9f?style=flat-square&logo=gmail&logoColor=white)](mailto:2552744@tongji.edu.cn)
+[![Photography](https://img.shields.io/badge/Photography-Live%20Gallery-4f6d7a?style=flat-square&logo=cloudflarepages&logoColor=white)](https://zncu-photo.pages.dev/?v=image-fix)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
 
 - 🎓 Studying Software Engineering at Tongji University
 - 🧠 Currently focused on algorithms and problem-solving
 - 🤖 Exploring AI agents and agent-based development
 - 📷 Interested in photography and building practical projects
 
-## Technologies
+## 🧰 Technologies
 
-- **Languages:** Python, C, C++, TypeScript
-- **Frontend:** Vue, React
-- **Deep Learning:** U-Net
-- **Currently exploring:** Algorithms and AI agents
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Deep%20Learning-U--Net-7656a4?style=flat-square" alt="U-Net">
+  <img src="https://img.shields.io/badge/AI%20Agents-Exploring-4b5563?style=flat-square" alt="AI Agents">
+</p>
 
-## Project
+## 🚀 Project
 
-### 📷 Photography Gallery
+| 📷 Photography Gallery |
+| :--- |
+| A personal photography gallery featuring albums, selected photographs, and shooting parameters. |
+| [![View Live Website](https://img.shields.io/badge/View%20Live%20Website-2563EB?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://zncu-photo.pages.dev/?v=image-fix) |
 
-A personal photography gallery featuring albums, selected photographs, and shooting parameters.
+## 📬 Contact
 
-[View the live website](https://zncu-photo.pages.dev/?v=image-fix)
-
-## Contact
-
-- **Email:** [2552744@tongji.edu.cn](mailto:2552744@tongji.edu.cn)
+Feel free to reach me at [2552744@tongji.edu.cn](mailto:2552744@tongji.edu.cn).
