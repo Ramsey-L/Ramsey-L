@@ -1,23 +1,20 @@
 <div align="center">
 
-# Hi, I'm Xintong Li 👋
+# Hi, I'm Xintong Li (李欣桐) 👋
 
-I'm a student at the [School of Computer Science and Technology, Tongji University](https://cs.tongji.edu.cn/). Exploring software, vibe coding, and practical ways to build with AI.
+I'm a student at the [School of Computer Science and Technology, Tongji University](https://cs.tongji.edu.cn/).
 
-[![Email](https://img.shields.io/badge/Email-2552744%40tongji.edu.cn-2f6f9f?style=flat-square&logo=gmail&logoColor=white)](mailto:2552744@tongji.edu.cn)
-[![Photography](https://img.shields.io/badge/Photography-Live%20Gallery-4f6d7a?style=flat-square&logo=cloudflarepages&logoColor=white)](https://zncu-photo.pages.dev/?v=image-fix)
+*Exploring software, vibe coding, and practical ways to build with AI.*
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
-- 🔍 I like learning from first principles and understanding how things work
-- 💻 I'm currently strengthening my foundations in algorithms and software development
-- 🤖 I explore how AI agents can support problem-solving and help turn ideas into useful tools
-- 📷 Outside of technology, I enjoy photography, fitness, guitar, and travel
-- 🤝 I value clear thinking, recognizing where I can improve, and making steady progress
+- 🔍 I like learning from first principles and understanding how things work.
+- 💻 I'm currently strengthening my foundations in algorithms and software development.
+- 🤖 I explore how AI agents can support problem-solving and help turn ideas into useful tools.
+- 📷 Outside of technology, I enjoy photography, fitness, guitar, and travel.
+- 🤝 I value clear thinking, recognizing where I can improve, and making steady progress.
 
 ## 🧰 Technologies I Work With
 
