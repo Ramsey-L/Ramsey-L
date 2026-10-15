@@ -7,6 +7,7 @@ I'm a student at the [School of Computer Science and Technology, Tongji Universi
 *Currently i'm new in exploring software, vibe coding, and practical ways to build with AI.*
 
 </div>
+
  ## 📷 MY blog
 
 This is my personal blog, it contains my personal information, my photography album, my studying notes and memos.  
