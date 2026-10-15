@@ -8,11 +8,17 @@ I'm a student at the [School of Computer Science and Technology, Tongji Universi
 
 </div>
 
- ## 📷 MY blog
+## 📷 MY blog
 
-This is my personal blog, it contains my personal information, my photography album, my studying notes and memos.  
+This is my personal blog, it contains my personal information, my photography album, my studying notes and memos.
 
-[![Visit the Website](https://img.shields.io/badge/Visit%20the%20Website-2563EB?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://zncu-photo.pages.dev/?v=image-fix)
+<div align="center">
+
+<a href="https://zncu-photo.pages.dev/?v=image-fix">
+  <img alt="Visit the Website" height="38" src="https://img.shields.io/badge/Personal%20Blog-Visit%20the%20Website%20%E2%86%92-1c1917?style=for-the-badge&labelColor=f4f1ea" />
+</a>
+
+</div>
 
 ## 👨‍💻 About Me
 
@@ -30,7 +36,6 @@ This is my personal blog, it contains my personal information, my photography al
 | **Frontend** | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
 | **Deep Learning** | ![U-Net](https://img.shields.io/badge/U--Net-7656A4?style=flat-square) |
 | **Currently Exploring** | ![Algorithms](https://img.shields.io/badge/Algorithms-Learning-2563EB?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI%20Agents-Exploring-4B5563?style=flat-square) |
-
 
 ## 📬 Contact
 
