@@ -34,4 +34,4 @@ This is my personal blog, it contains my personal information, my photography al
 
 ## 📬 Contact
 
-Feel free to reach me at [liam1093909131@gmail.com](mailto:1093909131@gmail.com).
+Feel free to reach me at [liam1093909131@gmail.com](mailto:1093909131@gmail.com) or qq:1093909131
